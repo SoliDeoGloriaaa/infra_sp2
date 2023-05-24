@@ -1,7 +1,8 @@
 import os
-
+import sys
 from django.conf import settings
 
+# sys.path.insert(0, "/d/python/infra_sp2/")
 
 class TestRequirements:
 
